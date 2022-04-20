@@ -1,0 +1,80 @@
+.booked {
+    padding: 100px 0;
+}
+
+.wrapper {
+}
+
+.block-orange {
+}
+
+.booked-orange {
+    margin-bottom: 30px;
+}
+
+.booked__title {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    color: #52503B;
+    max-width: 533px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 14px;
+}
+
+.booked__text {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #52503B;
+    max-width: 533px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 18px;
+}
+
+.booked__buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.booked__button {
+    display: block;
+    padding: 12px 23px;
+    font-size: 16px;
+    line-height: 20px;
+    border-radius: 6px;
+    transition: 0.1s all linear;
+}
+
+.booked__button:hover{
+    transform:scale(1.1,1.1);
+    -webkit-transform:scale(1.1,1.1);
+    -moz-transform:scale(1.1,1.1);
+}
+
+.booked__button:active{
+    transform:scale(1.0,1.0);
+    -webkit-transform:scale(1.0,1.0);
+    -moz-transform:scale(1.0,1.0);
+}
+
+.booked .button-dark{
+    padding: 15px 23px 12px 23px;
+}
+
+.booked__button:not(:last-child){
+    margin-right: 23px;
+}
+
+.button-light {
+    border: 4px solid #52503B;
+    color: #52503B;
+}
+
+.button-dark {
+    background: #52503B;
+    color: #fff;
+}

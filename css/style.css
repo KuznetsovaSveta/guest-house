@@ -1,0 +1,20 @@
+@import "_normalize.css";
+@import "_fonts.css";
+@import "_global.css";
+
+
+
+
+@import "./components/_header.css";
+@import "./components/_experience.css";
+@import "./components/_book.css";
+@import "./components/_getaway.css";
+@import "./components/_sleeping.css";
+@import "./components/_kitchen.css";
+@import "./components/_perfect.css";
+@import "./components/_past.css";
+@import "./components/_stand.css";
+@import "./components/_together.css";
+@import "./components/_booked.css";
+@import "./components/_footer.css";
+

@@ -1,0 +1,60 @@
+.sleeping {
+    color: #52503B;
+    padding: 100px 0;
+}
+
+.wrapper {
+}
+
+.wrapper-sleeping {
+}
+
+.block-orange {
+}
+
+.sleeping__orange{
+    margin-bottom: 30px;
+}
+
+.sleeping__title {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 16px;
+}
+
+.sleeping__text {
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 560px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.sleeping__cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sleeping__card {
+    text-align: center;
+}
+
+.sleeping__img {
+    max-width: 64px;
+    max-height: 64px;
+    margin-bottom: 12px;
+}
+
+.sleeping__name {
+    margin-bottom: 1px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.sleeping__descr {
+    max-width: 346px;
+    font-size: 14px;
+    line-height: 20px;
+}

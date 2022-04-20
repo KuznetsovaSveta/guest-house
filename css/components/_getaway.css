@@ -1,0 +1,21 @@
+.getaway {
+    padding: 100px 0 140px 0;
+}
+
+.getaway__orange{
+    margin-bottom: 32px;
+}
+
+.wrapper {
+}
+
+.block-orange {
+}
+
+.getaway__title{
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 96px;
+    text-align: center;
+    color: #52503B;
+}
